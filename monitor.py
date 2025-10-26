@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Twitter/Nitter 监控脚本 - 饭碗警告版本
-使用 Playwright 无头浏览器绕过 Anubis 反爬虫验证
-只使用饭碗警告推送，不使用 Qmsg
+Twitter/Nitter 监控脚本 - 饭碗警告
 """
 
 import json
