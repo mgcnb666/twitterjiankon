@@ -1,0 +1,12 @@
+{
+  "twitter_accounts": [
+    "stable"
+  ],
+  "nitter_instances": [
+    "https://nitter.privacyredirect.com"
+  ],
+  "check_interval": 1,
+  "notification_title": "stable 新推文",
+  "fwalert_webhook_url": ""
+}
+
